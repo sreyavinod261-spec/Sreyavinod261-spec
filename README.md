@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋, I'm Sreya Vinod
 
-<!--
-**sreyavinod261-spec/Sreyavinod261-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student passionate about learning technology and programming.
 
-Here are some ideas to get you started:
+🌱 Currently learning Java, Excel, SPSS, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development and Data Science.
+
+📚 Always eager to learn new skills and explore new technologies.
+
+✨ Fun fact: I enjoy combining creativity and technology to solve problems.
+
+📫 Connect with me through GitHub!
